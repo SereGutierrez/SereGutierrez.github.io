@@ -1,0 +1,80 @@
+.fondoLemon {
+    background-image: url("../img/lemon-background.png");
+}
+
+.fondoCarrot {
+    background-image: url("../img/carrot\ oscura.jpg");
+}
+
+.presentacion {
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 400px 20px 20px;
+    border: 10px solid rgb(145, 111, 49);
+    color:rgba(255, 255, 255, 0.767);
+    font-family: Arial;
+    font-size: 20px;
+    margin: 0px 122px;
+}
+
+.recetario {
+    color: #9b6c6c;
+    background-color: #e5c193;
+}
+
+.ingresoReceta {
+    padding: 10px 10px;
+    margin: 30px 415px;
+}
+
+h1 {
+    font-family: Arial;
+    font-size: 40px;
+    text-align: center;
+    color:rgba(255, 255, 255, 0.767)
+}
+
+.fondoAmarillo {
+    background-color: rgb(255, 255, 168);
+}
+.fondoNaranja {
+    background-color: #ffd890;
+}
+
+.fuenteAmarilla{
+    color: rgb(255, 255, 168);
+}
+
+.fuenteNaranja{
+    color: #ffd890;
+}
+
+h2 {
+    font-family: "Playfair Display Bold";
+    background-color: rgb(156, 125, 68);
+    font-style: Italic;
+    text-align: center;
+}
+
+h3 {
+    font-family: "Playfair Display Bold";
+    font-style: Italic;
+    color:rgb(156, 125, 68)
+}
+
+.texto {
+    color:rgb(156, 125, 68);
+    font-family: Arial;
+}
+
+.desarrollo {
+    width: 1200px;
+    margin:auto;
+    padding: 30px;
+}
+
+body {
+    background-image: url("../img/repetibleBakery.jpg");
+    background-repeat: repeat;
+    background-size: 190px;
+}
